@@ -1,0 +1,53 @@
+h1 {
+  font-size: 60px;
+  font-weight:800;
+  font-family: Arial, serif;
+  color:#145051;
+  text-align: center;
+  border:4px solid;
+  
+  }
+h2{
+  color:#145051;
+
+
+}
+p1{
+  font-family: Arial, serif;
+  text-align: justify;
+  color:#1B6A6C;
+    
+
+
+}
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color:#1B6A6C ;
+ }
+body{
+   background-color:#97E7EC ;
+}
+li{
+
+  
+}
+.one{
+ color: #154849;
+ text-align: center;
+  border:4px solid;
+
+}
+h3{
+  text-align: center;
+  font-size: 15px;
+   border:none;
+}
+
+
+
+
+
+
+
+
